@@ -9,8 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "cucumber": "^1.2.1",
     "jasmine": "^2.4.1",
     "openlayers": "^3.17.1",
     "protractor": "^4.0.0"
+  },
+  "devDependencies": {
+    "protractor-cucumber-framework": "^0.6.0"
   }
 }
